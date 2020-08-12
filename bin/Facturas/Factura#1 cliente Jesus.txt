@@ -1,0 +1,22 @@
+*********************************************************************************************************
+QUESOS LA LECHERA CxA
+Av. Luis Ginebra, Galerias del Atlantico, Puerto Plata
+Tel.: 809 - 505 - 7454
+Fax: 809 - 505 - 2754
+
+
+Cliente: 111-1111111-1
+Nombre: Jesus
+Teléfono: 444-444-4444
+
+***********************************DATOS MONETARIOS  DEL CLIENTE******************************************
+ 
+Codigo	 	Cantidad	 		 	Impuestos	 	Sub-Monto
+QESF-1	 	1	 	   	 	 	 14.35	 	 	 51.27
+
+SubTotal: 51.27
+Total de Impuestos: 14.35
+
+Total: 65.62
+ 
+*************************************GRACIAS POR SU COMPRA!!!*******************************************************
